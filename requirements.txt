@@ -77,7 +77,7 @@ prompt-toolkit==3.0.4
 protobuf==3.6.1
 psycopg2==2.8.5
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 pylint==2.3.1
 pyparsing==2.4.7
